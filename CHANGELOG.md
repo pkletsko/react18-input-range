@@ -1,10 +1,11 @@
-<a name="1.3.0"></a>
-# [1.3.0](https://github.com/davidchin/react-input-range/compare/v1.2.2...v1.3.0) (2018-01-06)
+
+<a name="1.3.1"></a>
+# [1.3.1](https://github.com/davidchin/react-input-range/compare/v1.3.0...v1.3.1) (2022-08-17)
 
 
 ### Features
 
-* Allow min and max to have same value ([#114](https://github.com/davidchin/react-input-range/issues/114)) ([8b36de7](https://github.com/davidchin/react-input-range/commit/8b36de7))
+* Support of react 18 
 
 
 
